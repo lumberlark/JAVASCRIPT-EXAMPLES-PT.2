@@ -129,6 +129,7 @@ const printForcast = function (temps) {
   );
 };
 
+// Example data
 const data = [17, 21, 23];
 
 printForcast(data);
